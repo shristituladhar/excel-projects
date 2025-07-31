@@ -18,7 +18,7 @@ Analyze how demographic factors like age, income, marital status, and commute di
 
 ---
 
-## [Coffee Orders Dashboard](coffee-orders-analysis)
+## [Coffee Orders Analysis](coffee-orders-analysis)
 
 Visualize sales trends, customer loyalty, and top-performing coffee types across countries and time.
 
