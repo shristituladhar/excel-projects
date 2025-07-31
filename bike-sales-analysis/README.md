@@ -6,6 +6,8 @@ This Excel dashboard analyzes customer behavior and sales performance in a ficti
 
 ![Bike Sales Dashboard](bike%20sales%20analysis.png)
 
+---
+
 ### Dashboard Features
 - **Average Income per Purchase** by Gender and Purchase Status
 - **Customer Age Brackets** - who buys bikes across age groups
