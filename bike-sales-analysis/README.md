@@ -2,9 +2,9 @@
 
 This Excel dashboard analyzes customer behavior and sales performance in a fictional bike retail dataset. The goal was to explore **who buys bikes** and **what demographic patterns influence purchases**.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-[![Bike Sales Dashboard Preview](bike%20sales%20analysis.png)]
+![Bike Sales Dashboard](bike%20sales%20analysis.png)
 
 ### Dashboard Features
 - **Average Income per Purchase** by Gender and Purchase Status
