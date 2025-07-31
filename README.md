@@ -6,7 +6,7 @@ Each project uses Pivot Tables, Slicers, Charts, and Excel formulas to turn raw 
 
 ---
 
-## Bike Sales Analysis
+## [Bike Sales Analysis](bike-sales-analysis)
 
 Analyze how demographic factors like age, income, marital status, and commute distance influence bike purchase decisions.
 
@@ -16,11 +16,9 @@ Analyze how demographic factors like age, income, marital status, and commute di
 - Commute distance correlation  
 - Interactive slicers for region, education, and marital status
 
-> Located in: `/bike-sales-analysis`
-
 ---
 
-## Coffee Orders Dashboard
+## [Coffee Orders Dashboard](coffee-orders-analysis)
 
 Visualize sales trends, customer loyalty, and top-performing coffee types across countries and time.
 
@@ -29,8 +27,6 @@ Visualize sales trends, customer loyalty, and top-performing coffee types across
 - Top 5 customers by spend  
 - Sales by country  
 - Timeline & slicers for date, roast, size, and loyalty
-
-> Located in: `/coffee-orders-analysis`
 
 ---
 
