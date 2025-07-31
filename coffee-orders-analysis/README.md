@@ -2,6 +2,12 @@
 
 This Excel dashboard visualizes sales performance for a fictional coffee business, tracking orders, customer behavior, and product trends across countries and time.
 
+## Dashboard Preview
+
+![Coffee Sales Dashboard](Coffee%20Sales%20Dashboard.png)
+
+---
+
 ### Dashboard Highlights
 - **Total Sales Over Time** segmented by Coffee Type
 - **Sales by Country** – visualized with interactive bar chart
