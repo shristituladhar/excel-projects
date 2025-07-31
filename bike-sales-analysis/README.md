@@ -4,7 +4,7 @@ This Excel dashboard analyzes customer behavior and sales performance in a ficti
 
 ## 📊 Dashboard Preview
 
-[![Bike Sales Dashboard Preview](bike%20sales%20analysis.png)](Excel%20-%20Bike%20Sales%20Analysis.xlsx)  
+[![Bike Sales Dashboard Preview](bike%20sales%20analysis.png)]
 
 ### Dashboard Features
 - **Average Income per Purchase** by Gender and Purchase Status
